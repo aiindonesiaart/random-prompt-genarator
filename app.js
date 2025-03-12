@@ -26,7 +26,7 @@ const categories = {
         "Laundromat",
         "Laundry Room",
         "Jakarta Street,
-        "National Monument Monas",
+        "National Monument",
         "Ragunan Zoo",
         "Bogor Royal Garden",
         "Puncak Mountain Peak",
